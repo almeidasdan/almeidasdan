@@ -15,9 +15,6 @@
 </div>
 <h2 data-sourcepos="6:1-6:2" dir="auto"></h2>
 <div> 
-  <a href="mailto:almeidas.dan@gmail.com" target="_blank">
-    <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
-  </a> 
   <a href="https://www.linkedin.com/in/almeidasdan" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
    </a>
