@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu github! Eu sou o Daniel Almeida.
 
 - 🔭 Atualmente trabalho com desenvolvimento backend 
-- 🌱 Estudando Angular e Python
+- 🌱 Estudando React e Angular
 <h2 data-sourcepos="6:1-6:2" dir="auto"></h2>
 <div>
   <a href="https://github.com/almeidasdan">
@@ -9,9 +9,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidasdan&layout=compact&theme=dark&langs_count=8" /></a>
 </div>
 <div style="display:inline_block"><br>
-  <img align="center" alt="Daniel-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Daniel-CPlusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  />
-  <img align="center" alt="Daniel-Python" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,git,github,gitlab,html,css,js,react,linux,kubernetes,docker,aws" />
+  </a>
 </div>
 <h2 data-sourcepos="6:1-6:2" dir="auto"></h2>
 <div> 
