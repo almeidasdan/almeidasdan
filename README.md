@@ -10,7 +10,7 @@
 </div>
 <div style="display:inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,git,github,gitlab,html,css,js,react,linux,kubernetes,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,aws,git,github,gitlab,html,css,js,react,linux,kubernetes,docker" />
   </a>
 </div>
 <h2 data-sourcepos="6:1-6:2" dir="auto"></h2>
